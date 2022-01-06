@@ -1,0 +1,14 @@
+.companyName {
+  color: #023047;
+  font-size: 18px;
+}
+.companyMotto {
+  color: #219ebc;
+  font-size: 16px;
+  font-style: italic;
+}
+.customerName {
+  color: #fb8500;
+  font-size: 16px;
+  font-weight: 500;
+}
